@@ -39,3 +39,5 @@ spec:
     image: docker/hello-world:latest
     imagePullPolicy: Always
 ```
+
+Inspired by [this @lwolf repo](https://github.com/lwolf/kubectl-deployer-docker) and [this @lwolf post](https://blog.lwolf.org/post/continuous-deployment-to-kubernetes-from-gitlab-ci/)
